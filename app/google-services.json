@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "59850262489",
+    "project_id": "naloxonefinder-2067f",
+    "storage_bucket": "naloxonefinder-2067f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59850262489:android:3b7c273b025efb12ca3bc8",
+        "android_client_info": {
+          "package_name": "com.team.naloxonefinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59850262489-d1th3u00hopbpp62ifojjkts1n9ndb9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiKog0vSAQUmwxw7nXhZmZ89C4_lhugIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
+
